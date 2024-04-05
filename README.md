@@ -62,7 +62,8 @@ This JavaScript code shows how to generate an array containing prime numbers. It
 
 ## Usage
 
-1. Clone the repository containing the JavaScript file.
+1. Clone the repository to your local machine using;
+    <git@github.com>:rotichbrian/code-challenge2.git
 2. Open the JavaScript file in your preferred code editor.
 3. Run the JavaScript code in a Node.js environment or a web browser console.
 4. After running you will see the output in the console displaying array containing the prime numbers
